@@ -1,4 +1,4 @@
-# My Go Learning Journey
+# My Go Playground
 
 ## Projects (in order of completion)
 
